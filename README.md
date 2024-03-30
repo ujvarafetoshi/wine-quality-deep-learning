@@ -5,7 +5,7 @@
 This project focuses on predicting the quality of wines based on their physicochemical properties. This project explores various deep learning models to find the most effective approach for this prediction task, considering the nuances between different types of wines.
 
 ## Dataset and Environment Setup
-The project utilizes the "Wine Quality" dataset, accessible through the `ucimlrepo` Python package. Necessary libraries include `numpy`, `pandas`, `seaborn`, `sklearn`, `keras`, and `matplotlib`. Installation instructions are provided in the setup section.
+The project utilizes the "Wine Quality" dataset, accessible through the `ucimlrepo` Python package. Necessary libraries include 'keras', `numpy`, `pandas`, `seaborn`, `sklearn`, and `matplotlib`. Installation instructions are provided in the setup section.
 
 ## Key Observations from Initial EDA - ***Imbalanced Data***
 
